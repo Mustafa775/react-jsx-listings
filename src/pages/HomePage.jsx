@@ -8,7 +8,7 @@ const HomePage = () => {
   return (
     <>
       <Hero
-        title="Welcom to react Jobs Site"
+        title="Welcome Mustafa 👍🏻👍🏻👍🏻"
         subtitle="You will find best jobs here"
       />
       <Homecards />
